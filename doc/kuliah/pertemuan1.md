@@ -1,3 +1,5 @@
+Resume Pertemuan 1 Kapita Selekta
+
 <p align="center">
   <img src="../../img/github.png" width="400px">
 </p>
