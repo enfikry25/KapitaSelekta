@@ -34,7 +34,9 @@ Saran saya untuk para developer perangkat lunak, sebaiknya menggunakan Github un
 
 Link Github :  [https://github.com/enfikry25/KapitaSelekta/edit/master/doc/kuliah/pertemuan1.md](https://github.com/enfikry25/KapitaSelekta/edit/master/doc/kuliah/pertemuan1.md)
 
+
 Referensi : http://www.diarypc.com/2014/01/pengertian-7-osi-layer-dan-tcpip.html
+
 Scan Plagiarisme
 1.	https://drive.google.com/open?id=0B84lVJ2VqAfRcnpMVTI5QzJRcFE
 2.	https://drive.google.com/open?id=0B84lVJ2VqAfRN2dLWWozUEVtbHc
