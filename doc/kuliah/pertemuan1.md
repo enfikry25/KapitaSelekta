@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="../../img/github.png" width="400px">
+</p>
+
 Latar Belakang Masalah
 
-Semua pengguna sekarang rata-rata menggunakan Github, karena aplikasi yang dapat mengontrol tahapan – tahapan project dengan baik. Maka saya akan menjelaskan apa itu Github dan fungsinya tersebut.
+Semua pengguna sekarang rata-rata menggunakan Github, karena aplikasi yang dapat mengontrol tahapan â€“ tahapan project dengan baik. Maka saya akan menjelaskan apa itu Github dan fungsinya tersebut.
 
 1.       Apa itu Github?
 
@@ -26,13 +30,11 @@ Saran saya untuk para developer perangkat lunak, sebaiknya menggunakan Github un
 - NPM : 1144115
 - Kelas : 3C
 - Prodi : D4 Teknik Informatika
-- Mata Kuliah : Sistem Keamanan Jaringan
+- Mata Kuliah : Kapita Selekta
 
-Link Github :  [https://github.com/enfikry25/SistemKeamananJaringan](https://github.com/enfikry25/SistemKeamananJaringan)
+Link Github :  [https://github.com/enfikry25/KapitaSelekta/edit/master/doc/kuliah/pertemuan1.md](https://github.com/enfikry25/KapitaSelekta/edit/master/doc/kuliah/pertemuan1.md)
 
-Referensi :  [http://www.diarypc.com/2014/01/pengertian-7-osi-layer-dan-tcpip.html](http://www.diarypc.com/2014/01/pengertian-7-osi-layer-dan-tcpip.html)
-
+Referensi : http://www.diarypc.com/2014/01/pengertian-7-osi-layer-dan-tcpip.html
 Scan Plagiarisme
-
-1. [https://drive.google.com/open?id=0B84lVJ2VqAfRcnpMVTI5QzJRcFE](https://drive.google.com/open?id=0B84lVJ2VqAfRcnpMVTI5QzJRcFE)
-2. [https://drive.google.com/open?id=0B84lVJ2VqAfRN2dLWWozUEVtbHc](https://drive.google.com/open?id=0B84lVJ2VqAfRN2dLWWozUEVtbHc)
+1.	https://drive.google.com/open?id=0B84lVJ2VqAfRcnpMVTI5QzJRcFE
+2.	https://drive.google.com/open?id=0B84lVJ2VqAfRN2dLWWozUEVtbHc
